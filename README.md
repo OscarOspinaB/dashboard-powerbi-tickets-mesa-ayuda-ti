@@ -4,6 +4,8 @@ El objetivo es crear un Dashboard automático en Power BI que sea utilizado por 
 
 El dashboard es un mínimo producto viable, esta sujeto a mejoras.
 
+Para esta versión del informe se ha tomado la decisión de eliminar los IDs de los tickets que estén duplicados, ya que se observó que para un mismo caso habia duplicidad tanto en fechas como en el ID, es por eso que hay menos datos observados  en el Dashboard frente al total que se puede ver en la fuente de datos. Se le dió prioridad a los datos únicos y no dejar duplicados.
+
 ## Acceso al Dashboard ❕
 Click en el siguiente enlace para acceder al dashboard interactivo (se recomienda abrir el enlace en otra pestaña):
 
